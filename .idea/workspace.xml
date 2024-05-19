@@ -5,6 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0277e55-d256-4529-8230-c8cead3f7017" name="Changes" comment="19052024">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hardtask/Hard11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hardtask/Hard12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hardtask/Hard13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hardtask/Hard14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hardtask/Hard15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hardtask/Hard16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hardtask/Hard17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hardtask/Hard18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hardtask/Hard19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hardtask/Hard20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hardtask/HardEith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hardtask/HardFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hardtask/HardFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hardtask/HardNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hardtask/HardSeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hardtask/HardSix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hardtask/HardTen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hardtask/HardThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hardtask/HardTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hardtask/Hardone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/task/Lessonone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task/Lessonone.java" afterDir="false" />
     </list>
@@ -55,6 +75,7 @@
     "Application.task.executor": "Run",
     "Application.task.task.executor": "Run",
     "Gradle.Build Task1.executor": "Run",
+    "Gradle.Task1 [:HardThree.main()].executor": "Run",
     "Gradle.Task1 [:Lessonone.main()].executor": "Run",
     "Gradle.Task1 [:task.main()].executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -67,7 +88,20 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lessonone">
+  <component name="RunManager" selected="Application.HardThree">
+    <configuration name="HardThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hardtask.HardThree" />
+      <module name="Task1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hardtask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lessonone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task.Lessonone" />
       <module name="Task1.main" />
@@ -103,6 +137,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HardThree" />
         <item itemvalue="Application.Lessonone" />
         <item itemvalue="Application.task.task" />
         <item itemvalue="Application.task" />
@@ -142,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716129340523</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="19052024">
+      <option name="closed" value="true" />
+      <created>1716131661809</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716131661809</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
