@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0277e55-d256-4529-8230-c8cead3f7017" name="Changes" comment="19052024">
-      <change afterPath="$PROJECT_DIR$/src/main/java/task/Lessonone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task/task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task/Lessonone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task/Lessonone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
     "Application.task.executor": "Run",
     "Application.task.task.executor": "Run",
     "Gradle.Build Task1.executor": "Run",
-    "Gradle.Task1 [:Lessonone.main()].executor": "Debug",
+    "Gradle.Task1 [:Lessonone.main()].executor": "Run",
     "Gradle.Task1 [:task.main()].executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -136,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716119631693</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="19052024">
+      <option name="closed" value="true" />
+      <created>1716129340522</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716129340523</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
