@@ -9,9 +9,9 @@ public class HardFour {
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите логин: ");
         String login = sc.next();
-        {
-            System.out.println("Введите пароль:");
-        }
+
+        System.out.println("Введите пароль:");
+
         String pas = sc.next();
         if (login.equals("admin") && pas.equals("password")) {
             System.out.println("Accept");
@@ -19,7 +19,5 @@ public class HardFour {
             System.out.println("Error");
         }
         sc.close();
-
-
     }
 }

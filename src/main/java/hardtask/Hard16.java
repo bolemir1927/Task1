@@ -8,13 +8,13 @@ public class Hard16 {
         //и в акции "Скидка на товары категории A" (isCategoryADiscount) и в акции "Скидка на товары категории B"
         //(isCategoryBDiscount).
         Scanner sc = new Scanner(System.in);
-        {
-            System.out.println("Скидка на товары категории A(yes/no): ");
-        }
+
+        System.out.println("Скидка на товары категории A(yes/no): ");
+
         String isCategoryADiscount = sc.next();
-        {
-            System.out.println("Скидка на товары категории B(yes/no): ");
-        }
+
+        System.out.println("Скидка на товары категории B(yes/no): ");
+
         String isCategoryBDiscount = sc.next();
         if (isCategoryADiscount.equals("yes") && isCategoryBDiscount.equals("yes")) {
             System.out.println("Accept");

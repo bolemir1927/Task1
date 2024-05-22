@@ -7,9 +7,9 @@ public class Hard11 {
         //Проверка прав доступа:Пользователь может получить доступ к ресурсу,
         //если он администратор (isAdmin) или модератор (isModerator).
         Scanner sc = new Scanner(System.in);
-        {
-            System.out.println("Проверка доступа: ");
-        }
+
+        System.out.println("Проверка доступа: ");
+
         String login = sc.next();
 
         if (login.equals("isAdmin") || login.equals("isModerator")) {
@@ -18,7 +18,5 @@ public class Hard11 {
             System.out.println("Error");
         }
         sc.close();
-
-
     }
 }
