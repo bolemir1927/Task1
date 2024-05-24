@@ -4,15 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0277e55-d256-4529-8230-c8cead3f7017" name="Changes" comment="22052024">
+    <list default="true" id="d0277e55-d256-4529-8230-c8cead3f7017" name="Changes" comment="23052024">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/Reserv.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/finishTask/Task12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/finishTask/Task12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/finishTask/Task17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/finishTask/Task17.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Task1\exportToHTML" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -51,33 +53,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.task.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task.task.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Build Task1.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Task1 [:Hard11.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Task1 [:Hard15.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Task1 [:HardEith.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Task1 [:HardFive.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Task1 [:HardFour.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Task1 [:HardSeven.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Task1 [:HardSix.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Task1 [:HardTen.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Task1 [:HardThree.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Task1 [:Lessonone.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Task1 [:task.main()].executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.task.executor": "Run",
+    "Application.task.task.executor": "Run",
+    "Gradle.Build Task1.executor": "Run",
+    "Gradle.Task1 [:Hard11.main()].executor": "Run",
+    "Gradle.Task1 [:Hard15.main()].executor": "Run",
+    "Gradle.Task1 [:HardEith.main()].executor": "Run",
+    "Gradle.Task1 [:HardFive.main()].executor": "Run",
+    "Gradle.Task1 [:HardFour.main()].executor": "Run",
+    "Gradle.Task1 [:HardSeven.main()].executor": "Run",
+    "Gradle.Task1 [:HardSix.main()].executor": "Run",
+    "Gradle.Task1 [:HardTen.main()].executor": "Run",
+    "Gradle.Task1 [:HardThree.main()].executor": "Run",
+    "Gradle.Task1 [:Lessonone.main()].executor": "Run",
+    "Gradle.Task1 [:Reserv.main()].executor": "Run",
+    "Gradle.Task1 [:task.main()].executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/IDEA/project/java-group-task-master",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.Hard15">
+}]]></component>
+  <component name="RunManager" selected="Application.Reserv">
     <configuration name="Hard11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hardtask.Hard11" />
       <module name="Task1.main" />
@@ -130,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HardSix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hardtask.HardSix" />
+    <configuration name="Reserv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson2.Reserv" />
       <module name="Task1.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hardtask.*" />
+          <option name="PATTERN" value="lesson2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reserv" />
         <item itemvalue="Application.Hard15" />
         <item itemvalue="Application.Hard11" />
         <item itemvalue="Application.HardSeven" />
         <item itemvalue="Application.HardFour" />
-        <item itemvalue="Application.HardSix" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716400726429</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="23052024">
+      <option name="closed" value="true" />
+      <created>1716482800709</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1716482800709</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,6 +305,7 @@
     <MESSAGE value="20052024" />
     <MESSAGE value="21052024" />
     <MESSAGE value="22052024" />
-    <option name="LAST_COMMIT_MESSAGE" value="22052024" />
+    <MESSAGE value="23052024" />
+    <option name="LAST_COMMIT_MESSAGE" value="23052024" />
   </component>
 </project>
